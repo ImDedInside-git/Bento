@@ -114,12 +114,12 @@ const CONFIG = {
         link: 'https://figma.com/',
       },
       {
-        name: 'Dribbble',
-        link: 'https://dribbble.com',
+        name: 'Discord Bots',
+        link: 'https://discord.com/developers/applications',
       },
       {
-        name: 'Telegram',
-        link: 'https://webk.telegram.org',
+        name: 'WhatsApp',
+        link: 'https://whatsapp.com',
       },
     ],
   },
