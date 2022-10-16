@@ -24,11 +24,11 @@ const CONFIG = {
 
   // Weather
   weatherKey: '25fc17626556e84f8d0ff370b478c67e',
-  weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
+  weatherIcons: 'Dark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
-  trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
+  trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
   defaultLatitude: '26.230077585503345',
   defaultLongitude: '50.58157440937727',
 
@@ -52,7 +52,7 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Todoist',
+      name: 'Calendar',
       icon: 'trello',
       link: 'https://calendar.google.com/calendar/r',
     },
@@ -70,7 +70,7 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Odysee',
+      name: 'Youtube',
       icon: 'youtube',
       link: 'https://youtube.com/',
     },
@@ -88,15 +88,15 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Youtube Music',
+        link: 'https://music.youtube.com/',
       },
       {
-        name: 'Classic',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Liked',
+        link: 'https://music.youtube.com/playlist?list=LM',
       },
       {
-        name: 'Oldies',
+        name: 'Hentai',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
       {
@@ -110,8 +110,8 @@ const CONFIG = {
         link: 'https://linkedin.com/',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'KLE Mail',
+        link: 'http://mail.kletech.ac.in/',
       },
       {
         name: 'Discord Bots',
