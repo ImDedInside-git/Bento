@@ -397,7 +397,7 @@ body {
   --white: rgba(115, 115, 115, 0.448);
   --darkwhite: #5a5858;
   --pinkshadow: #ffcbdd00;
-  --lightbshadow: rgba(0, 0, 0, 0);
+  --lightbshadow: rgba(0, 0, 0, 0.372);
 }
 body{
   display: flex;
@@ -418,10 +418,10 @@ body{
 
 .wrapper{
   width: 30vh;
-  height: 100vh;
-  padding: 212px 25px;
+  height: 80vh;
+  padding: 200px 25px;
   overflow: hidden;
-  border-radius: 0px;
+  border-radius: 30px;
   background: var(--white);
   box-shadow: 0px 6px 15px var(--lightbshadow);
 }
