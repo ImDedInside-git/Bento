@@ -111,10 +111,6 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
-      },
-      {
         name: 'KLE Mail',
         link: 'http://mail.kletech.ac.in/',
       },
@@ -127,8 +123,12 @@ const CONFIG = {
         link: 'https://web.whatsapp.com',
       },
       {
-        name: 'TEMP',
+        name: 'Bookmark 1',
         link: 'https://www.youtube.com/watch?v=ajeCWxkdte4&list=PLqjFFrfKcY5zWFDDQoBh2dQVUb0lzRoZL',
+      },
+      {
+        name: 'Bookmark 2',
+        link: '',
       },
     ],
   },
