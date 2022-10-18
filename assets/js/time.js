@@ -36,12 +36,9 @@ function displayClock() {
   }
 
   // Display clock elements
-  document.getElementById('hour').innerText = hh;
-  document.getElementById('separator').innerHTML = ' : ';
-  document.getElementById('minutes').innerText = min + ampm;
-
-  document.getElementById('month').innerText = mm;
-  document.getElementById('day').innerText = dd;
+  document.getElementById('hour').innerText = hh+' : '+min;
+  
+  document.getElementById('month').innerText = mm +' '+ dd;
 
   setTimeout(displayClock, 1000);
 }

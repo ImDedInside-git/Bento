@@ -74,6 +74,7 @@ const CONFIG = {
       icon: 'youtube',
       link: 'https://youtube.com/',
     },
+
   ],
 
   // ┬  ┬┌─┐┌┬┐┌─┐
@@ -103,6 +104,10 @@ const CONFIG = {
         name: 'Rock',
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
+      {
+        name: 'Rock',
+        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+      },
     ],
     secondList: [
       {
@@ -120,6 +125,10 @@ const CONFIG = {
       {
         name: 'WhatsApp',
         link: 'https://web.whatsapp.com',
+      },
+      {
+        name: 'Rock',
+        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
     ],
   },
