@@ -20,7 +20,7 @@ const CONFIG = {
   greetingMorning: 'Good morning!',
   greetingAfternoon: 'Good afternoon,',
   greetingEvening: 'Good evening,',
-  greetingNight: 'Go to Sleep hoe!',
+  greetingNight: 'Good night,',
 
   // Weather
   weatherKey: '25fc17626556e84f8d0ff370b478c67e',
@@ -101,12 +101,12 @@ const CONFIG = {
         link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Amazon AE',
+        link: 'https://www.amazon.ae/',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'Amazon IN',
+        link: 'https://www.amazon.in/',
       },
     ],
     secondList: [
@@ -127,8 +127,8 @@ const CONFIG = {
         link: 'https://web.whatsapp.com',
       },
       {
-        name: 'Rock',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'TEMP',
+        link: 'https://www.youtube.com/watch?v=ajeCWxkdte4&list=PLqjFFrfKcY5zWFDDQoBh2dQVUb0lzRoZL',
       },
     ],
   },
