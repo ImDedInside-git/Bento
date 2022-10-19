@@ -335,14 +335,15 @@ body {
   color: var(--fg);
   margin-top: 1vh;
   padding: 8px 12px;
-  border-radius: 5px;
+  border-radius: 13px;
   font-weight: bold;
   text-align: center;
   width: 80%;
 }
 .list__link:hover {
   background-color: rgba(176, 176, 176, 0.487);
-  color: var(--sfg);
+  color: var(--fg);
+  
   
 }
 
