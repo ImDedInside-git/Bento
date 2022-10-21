@@ -98,7 +98,7 @@ const CONFIG = {
       },
       {
         name: 'Hentai',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        link: 'https://www.youtube.com/watch?v=o-YBDTqX_ZU',
       },
       {
         name: 'Amazon AE',
