@@ -74,7 +74,6 @@ const CONFIG = {
       icon: 'youtube',
       link: 'https://youtube.com/',
     },
-
   ],
 
   // ┬  ┬┌─┐┌┬┐┌─┐
@@ -93,12 +92,12 @@ const CONFIG = {
         link: 'https://music.youtube.com/',
       },
       {
-        name: 'Liked',
-        link: 'https://music.youtube.com/playlist?list=LM',
+        name: 'WhatsApp',
+        link: 'https://web.whatsapp.com',
       },
       {
-        name: 'Hentai',
-        link: 'https://www.youtube.com/watch?v=o-YBDTqX_ZU',
+        name: 'Instagram',
+        link: 'https://www.instagram.com/',
       },
       {
         name: 'Amazon AE',
@@ -119,15 +118,15 @@ const CONFIG = {
         link: 'https://discord.com/developers/applications',
       },
       {
-        name: 'WhatsApp',
-        link: 'https://web.whatsapp.com',
-      },
-      {
         name: 'Bookmark 1',
-        link: 'https://www.youtube.com/watch?v=ajeCWxkdte4&list=PLqjFFrfKcY5zWFDDQoBh2dQVUb0lzRoZL',
+        link: '',
       },
       {
         name: 'Bookmark 2',
+        link: '',
+      },
+      {
+        name: 'Bookmark 3',
         link: '',
       },
     ],
